@@ -1,4 +1,4 @@
-Base de datos implementada con Hash (mini-Blockchain)
+**Base de datos implementada con Hash (mini-Blockchain)**
 
 Requerimientos:
 - Necesitas tener el entorno de ejecución de Java (JRE).
