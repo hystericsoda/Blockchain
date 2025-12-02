@@ -3,7 +3,7 @@
 Requerimientos:
 - Necesitas tener el entorno de ejecución de Java (JRE).
 
-Inicalizar
+Inicalizar:
 - Ejecuta el archivo JAR (blockchain.jar) desde una interfaz CLI.
 
       java -jar blockchain.jar
