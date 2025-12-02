@@ -1,0 +1,86 @@
+[
+  {
+    "data": [
+      {
+        "msg": "genesis_block",
+        "value": ""
+      }
+    ],
+    "prev_hash": "",
+    "id": 1,
+    "hash": "f89aff64269fa2df662255544100f47d94bcc98360b40f529933fc255cf020e9",
+    "timestamp": "20251201"
+  },
+  {
+    "data": [
+      {
+        "msg": "Hola",
+        "value": 500.0
+      }
+    ],
+    "prev_hash": "f89aff64269fa2df662255544100f47d94bcc98360b40f529933fc255cf020e9",
+    "id": 2,
+    "hash": "f92cdea527a45c3f950f249b84f9c9d3de4d322567ee3594224b4567988d7689",
+    "timestamp": "2025-12-01T22:03:51.141058100"
+  },
+  {
+    "data": [
+      {
+        "msg": "Hola",
+        "value": 500.0
+      }
+    ],
+    "prev_hash": "f89aff64269fa2df662255544100f47d94bcc98360b40f529933fc255cf020e9",
+    "id": 2,
+    "hash": "f92cdea527a45c3f950f249b84f9c9d3de4d322567ee3594224b4567988d7689",
+    "timestamp": "2025-12-01T22:03:51.141058100"
+  },
+  {
+    "data": [
+      {
+        "msg": "Mundo",
+        "value": 700.0
+      }
+    ],
+    "prev_hash": "f92cdea527a45c3f950f249b84f9c9d3de4d322567ee3594224b4567988d7689",
+    "id": 3,
+    "hash": "2c19989e89037b597a3bef6d4d65697829ac9efaa2a95bc4398d452dbd7377cc",
+    "timestamp": "2025-12-01T22:04:27.549052100"
+  },
+  {
+    "data": [
+      {
+        "msg": "Gato",
+        "value": 900.0
+      }
+    ],
+    "prev_hash": "2c19989e89037b597a3bef6d4d65697829ac9efaa2a95bc4398d452dbd7377cc",
+    "id": 4,
+    "hash": "67e4d4cc4dd55eacda81c72caa3a0d42365b58dc5d6ff8963d899ea7fa9b4b2e",
+    "timestamp": "2025-12-01T22:44:23.125534200"
+  },
+  {
+    "data": [
+      {
+        "msg": "Perro",
+        "value": 200.0
+      }
+    ],
+    "prev_hash": "67e4d4cc4dd55eacda81c72caa3a0d42365b58dc5d6ff8963d899ea7fa9b4b2e",
+    "id": 5,
+    "hash": "12ec1b018bde0f7f95e4b413263ebaca3dda2cb4a0c5df63f75b3fde70dde8de",
+    "timestamp": "2025-12-01T22:44:36.394876300"
+  },
+  {
+    "data": [
+      {
+        "msg": "Test",
+        "value": 500.0
+      }
+    ],
+    "prev_hash": "12ec1b018bde0f7f95e4b413263ebaca3dda2cb4a0c5df63f75b3fde70dde8de",
+    "id": 6,
+    "hash": "a058ad30d3b7b44023b07614ec39db0154aee151747c7eb3160dd17ef8c24129",
+    "timestamp": "2025-12-01T22:45:02.521927400"
+  }
+]
